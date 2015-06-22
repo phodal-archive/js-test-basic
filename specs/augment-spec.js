@@ -1,13 +1,19 @@
 describe("Markdown", function () {
+	var extend,
+		_augment;
+
 	beforeEach(function () {
-
-	});
-	afterEach(function () {
-
+		extend = ArtisanStack.augment.extend;
+		_augment = ArtisanStack.augment;
 	});
 
-	it("should parse test", function () {
-		expect(true).toBe(true);
+	it("should correctly create class", function () {
+		var extend = augment.extend;
+
+	});
+
+	it("should correctly extend class", function () {
+
 	});
 });
 
