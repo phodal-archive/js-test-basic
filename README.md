@@ -1,5 +1,7 @@
 #JavaScript Test 基础训练
 
+[![Build Status](https://travis-ci.org/artisanstack/js-test-basic.svg?branch=master)](https://travis-ci.org/artisanstack/js-test-basic)
+
 作为一个Professional程序员，你能接受没有测试的库么?
 
 重构代码最大的挑战是没有测试，当你面对一坨的代码的时候，你会如何下手?
