@@ -8,7 +8,6 @@ describe("Markdown", function () {
 	});
 
 	it("should correctly create class", function () {
-		var extend = augment.extend;
 
 	});
 
