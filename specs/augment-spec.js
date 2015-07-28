@@ -8,7 +8,7 @@ describe("Augment", function () {
 	});
 
 	it("should correctly create class", function () {
-		var extend = augment.extend;
+		var extend = _augment.extend;
 	});
 
 	it("should correctly extend class", function () {
