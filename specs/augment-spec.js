@@ -1,4 +1,4 @@
-describe("Markdown", function () {
+describe("Augment", function () {
 	var extend,
 		_augment;
 
@@ -8,7 +8,7 @@ describe("Markdown", function () {
 	});
 
 	it("should correctly create class", function () {
-
+		var extend = augment.extend;
 	});
 
 	it("should correctly extend class", function () {
